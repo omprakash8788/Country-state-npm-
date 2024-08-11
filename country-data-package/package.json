@@ -1,0 +1,12 @@
+{
+  "name": "@omprakashkumar/country-data-package",
+  "version": "1.0.0",
+  "description": "A package providing detailed country information including flags, states, districts, currencies, and languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Omprakash Kumar",
+  "license": "ISC"
+}
